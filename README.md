@@ -1,22 +1,17 @@
 # P&B Branding Africa 🌍✨
+> "Moving African Excellence from Visible to Unforgettable."
 
-> "We don’t just design brands. We build brands people remember."
+## 🛠 Our Services
 
-P&B Branding Africa is a premier branding and strategy agency dedicated to helping African businesses move from being visible to being unforgettable. 
+### 👤 Personal Branding (The Professional Edge)
+- **Executive CV Design:** Resumes that get you past the recruiter and into the boardroom.
+- **Interview Mastery:** Strategic coaching to help you articulate your value.
+- **LinkedIn & Social Branding:** Positioning you as a thought leader in your industry.
 
-## 🎯 Our Mission
-To bridge the gap between world-class African products and their visual perception. We engineer brand identities that command attention, build trust, and drive sustainable revenue.
-
-## 🛠 Services
-- **Brand Strategy:** Defining your unique market edge.
-- **Visual Identity:** Luxury logos and premium brand guidelines.
-- **Social Media Branding:** Conversion-focused content systems.
-- **Marketing Strategy:** Growth roadmaps for scaling SMEs.
-
-## 🚀 Tech Stack
-- **Frontend:** HTML5, Tailwind CSS
-- **Icons:** Lucide Icons
-- **Deployment:** GitHub Pages
+### 🏢 Business Branding (The Market Leader)
+- **Social Media Management:** Creating aesthetic, high-conversion accounts for brands.
+- **Facebook & Instagram Ads:** Strategic ad campaigns designed for ROI, not just likes.
+- **Visual Identity:** Luxury branding that allows you to charge premium prices.
 
 ---
-*Curated Beauty, Everyday Luxury. 2026 P&B Branding Africa.*
+*Building Icons. 2026 P&B Branding Africa.*
